@@ -1,0 +1,15 @@
+{
+  "name": "socket.setup",
+  "version": "1.0.0",
+  "description": "chat app websocket setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Schlaht",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
